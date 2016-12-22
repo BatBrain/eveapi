@@ -1,0 +1,23 @@
+{
+  "name": "eveapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eveonlinejs": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BatBrain/eveapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BatBrain/eveapi/issues"
+  },
+  "homepage": "https://github.com/BatBrain/eveapi#readme"
+}
