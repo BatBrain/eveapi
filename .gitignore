@@ -51,5 +51,6 @@ jspm_packages
 .yarn-integrity
 
 .env
+image_resources/**/*.png
 
 # End of https://www.gitignore.io/api/node
